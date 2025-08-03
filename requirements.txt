@@ -1,5 +1,5 @@
 streamlit
+fpdf
+Pillow
 requests
 geopy
-fpdf
-pillow
