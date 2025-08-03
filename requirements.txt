@@ -1,5 +1,5 @@
 streamlit
 fpdf
+Pillow
 geopy
-pandas
 requests
