@@ -1,3 +1,1 @@
-# PlotPilot
-
-AI Land Appraisal Tool
+# PlotPilot – Full Production App

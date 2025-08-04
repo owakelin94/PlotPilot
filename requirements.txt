@@ -1,5 +1,1 @@
-streamlit
-fpdf
-Pillow
-geopy
-requests
+streamlit\nrequests
